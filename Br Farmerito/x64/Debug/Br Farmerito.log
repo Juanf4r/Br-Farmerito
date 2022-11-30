@@ -1,0 +1,4 @@
+﻿  Br Farmerito.cpp
+C:\Users\juanf\Desktop\Br Farmerito\Br Farmerito\Br Farmerito.cpp(20,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\juanf\Desktop\Br Farmerito\Br Farmerito\Br Farmerito.cpp(43,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Br Farmerito.vcxproj -> C:\Users\juanf\Desktop\Br Farmerito\x64\Debug\Br Farmerito.exe
